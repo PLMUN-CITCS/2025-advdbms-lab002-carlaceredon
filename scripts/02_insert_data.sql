@@ -13,3 +13,8 @@
 
     2. Place your insert queries below this comment
 */
+INSERT INTO
+      tblStudents (student_name, student_email, student_phone)
+      VALUES
+         ("John Doe", "johndoe@gmai.com", "123-456-7890"),
+         ("Jane Doe", "janedoe@gamil.com", "123-456-7890");
